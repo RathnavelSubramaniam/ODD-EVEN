@@ -11,10 +11,4 @@
 
 ### The given number is ODD
 
-### Sample input : 
 
-10
-
-### Sample output:
-
-### The given number is EVEN
